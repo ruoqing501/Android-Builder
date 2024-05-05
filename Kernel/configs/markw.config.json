@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "MIX4",
-      "repo": "https://android.googlesource.com/kernel/common",
+      "repo": "https://github.com/ruoqing501/android_kernel_msm-5.10_oneplus_sm8450.git",
       "branch": "android11-5.4-lts",
       "device": "odin",
       "defconfig": "gki_defconfig"

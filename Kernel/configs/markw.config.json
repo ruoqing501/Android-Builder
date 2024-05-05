@@ -3,9 +3,9 @@
     "kernelSource": {
       "name": "MIX4",
       "repo": "https://github.com/ruoqing501/android_kernel_msm-5.10_oneplus_sm8450.git",
-      "branch": "android11-5.4-lts",
+      "branch": "oneplus/sm8450_s_coloros_12.1",
       "device": "odin",
-      "defconfig": "gki_defconfig"
+      "defconfig": "acc_defconfig"
     },
     "toolchains": [
       {

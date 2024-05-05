@@ -1,7 +1,7 @@
 [
   {
     "kernelSource": {
-      "name": "MIX4",
+      "name": "yijia",
       "repo": "https://github.com/ruoqing501/android_kernel_msm-5.10_oneplus_sm8450.git",
       "branch": "oneplus/sm8450_s_coloros_12.1",
       "device": "odin",

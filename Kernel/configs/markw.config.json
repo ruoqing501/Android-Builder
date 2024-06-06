@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Xiaomi4",
-      "repo": "https://github.com/SonicBSV/android_kernel_xiaomi_markw-4.9",
-      "branch": "master",
-      "device": "markw",
-      "defconfig": "markw_defconfig"
+      "name": "mix4",
+      "repo": "https://github.com/Inkypen79/kernel_xiaomi_odin.git",
+      "branch": "wip",
+      "device": "odin",
+      "defconfig": "odin_defconfig"
     },
     "toolchains": [
       {

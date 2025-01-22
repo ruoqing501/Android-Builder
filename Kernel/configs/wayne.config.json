@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Mi6X",
-      "repo": "https://github.com/Diva-Room/Miku_kernel_xiaomi_wayne",
-      "branch": "TDA",
-      "device": "wayne",
-      "defconfig": "vendor/wayne_defconfig"
+      "name": "k30",
+      "repo": "https://github.com/CloudMeiyu/android_kernel_xiaomi_cezanne.git",
+      "branch": "cezanne",
+      "device": "cezanne",
+      "defconfig": "vendor/cezanne_user_defconfig"
     },
     "toolchains": [
       {

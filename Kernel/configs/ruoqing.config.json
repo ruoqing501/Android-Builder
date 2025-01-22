@@ -1,11 +1,11 @@
 [
     {
         "kernelSource": {
-            "name": "Mi CC 9e",
-            "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
-            "branch": "laurus-q-oss",
-            "device": "laurus-q-oss",
-            "defconfig": "vendor/wayne_defconfig"
+            "name": "k30u",
+            "repo": "https://github.com/2512500960/xiaomi_kernel_cezanne_r_oss.git",
+            "branch": "cezanne-r-oss",
+            "device": "cezanne",
+            "defconfig": "cezanne_user_defconfig"
         },
         "toolchains": [
             {

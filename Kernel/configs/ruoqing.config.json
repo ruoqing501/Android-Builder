@@ -24,6 +24,8 @@
             "externalCommands": {
                 "CLANG_TRIPLE": "aarch64-linux-gnu-"
                 "LD": "ld.lld"
+                "LLVM": "1"
+                "LLVM_IAS": "1"
             }
         },
         "AnyKernel3": {

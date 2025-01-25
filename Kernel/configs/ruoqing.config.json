@@ -9,7 +9,7 @@
         },
         "toolchains": [
             {
-                "repo": https://github.com/ruoqing501/clang-r383902b1.git",
+                "repo": "https://github.com/ruoqing501/clang-r383902b1.git",
                 "branch": "main",
                 "name": "clang",
                 "binaryEnv": [

@@ -1,7 +1,7 @@
 [
     {
         "kernelSource": {
-            "name": "k30u",
+            "name": "MIX4",
             "repo": "https://github.com/ruoqing501/xiaomi_kernel_odin.git",
             "branch": "master",
             "device": "odin",

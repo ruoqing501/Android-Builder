@@ -2,15 +2,15 @@
     {
         "OrangeFox": {
             "Repo": "https://gitlab.com/OrangeFox/sync.git",
-            "Branch": "12.1"
+            "Branch": "14.1"
         },
         "Device": {
-            "Repo": "https://codeberg.org/DogDayAndroid/twrp_device_xiaomi_thyme",
-            "Branch": "android-13",
-            "Location": "device/xiaomi/thyme",
-            "DeviceName": "thyme",
-            "Makefile": "twrp_thyme",
-            "BootPartition": "boot"
+            "Repo": "https://github.com/ruoqing501/twrp_device_nubia_NX809J.git",
+            "Branch": "main",
+            "Location": "device/nubia/NX809J",
+            "DeviceName": "NX809J",
+            "Makefile": "twrp_NX809J",
+            "BootPartition": "recovery"
         }
     }
 ]
